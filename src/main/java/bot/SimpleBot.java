@@ -1,3 +1,5 @@
+package main.java.bot;
+
 import java.time.Year;
 import java.util.Scanner;
 
@@ -17,3 +19,4 @@ public class SimpleBot {
     }
 
 }
+
